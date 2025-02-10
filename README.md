@@ -122,11 +122,11 @@ contract LandRegistry {
 ---  
 
 ## **Output Screenshots**  
-_Attach screenshots of:_  
-1. **Smart Contract Deployment in Remix IDE**  
-2. **Land Registration Transaction**  
-3. **Ownership Transfer Transaction**  
-4. **Verification of Land Records**  
+  ![Screenshot 2025-02-10 101156](https://github.com/user-attachments/assets/5dc68af4-b2e3-4f3e-b4e8-9eb0b2a174bf)
+
+  ![Screenshot 2025-02-10 102538](https://github.com/user-attachments/assets/99672756-7199-47b3-ae08-54b9a2f16e51)
+
+
 
 ---  
 
