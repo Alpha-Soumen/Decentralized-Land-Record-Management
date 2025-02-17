@@ -31,7 +31,7 @@ This project leverages blockchain technology to create a secure, decentralized, 
 
 ### **Step 1: Clone the Repository**  
 ```sh  
-git clone https://github.com/yourusername/Decentralized-Land-Record-Management.git  
+git clone https://github.com/Alpha-Soumen/Decentralized-Land-Record-Management.git  
 cd Decentralized-Land-Record-Management  
 ```
 
