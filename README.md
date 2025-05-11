@@ -130,15 +130,13 @@ contract LandRegistry {
 
 ---  
 
-## **Contributors**  
-- **Alpha-Soumen** – [GitHub Profile](https://github.com/Alpha-Soumen)  
+## 👨‍💻 Developed by
+**LinkedIn:** [Soumen Bhunia](https://www.linkedin.com/in/soumen-bhunia-2b8799293/)
 
 ---  
 
 ## **License**  
 This project is licensed under the **MIT License**.  
 
----  
 
-**Feel free to fork, modify, and contribute to this project! 🚀**
 
